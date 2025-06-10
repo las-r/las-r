@@ -2,7 +2,7 @@
 
 I'm las_r and I make Stuff™, sometimes.
 
-I typically program in Python but I have experience in other language like Lua and Ruby along with other fields like web development. I can also work with embedded systems such as microcontrollers.
+I typically program in Python but I have experience in other languages like Lua and Ruby along with other fields like web development. I can also work with embedded systems such as microcontrollers.
 
 ### Things I've Made
 - Pupil, an interpreted programming language.
