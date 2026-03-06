@@ -1,4 +1,4 @@
-Hi! I'm las_r and I come stuff, sometimes.
+[Hi!](https://las-r.github.io) I'm las_r and I make stuff, sometimes.
 
 I typically program in Python or JavaScript but I have experience in other languages like Lua and Ruby. I can also work on embedded systems such as microcontrollers.
 
