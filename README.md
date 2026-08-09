@@ -12,4 +12,4 @@
 
 I typically program in Python or JavaScript, but I have experience in other languages like Lua. I can also work on embedded systems such as microcontrollers.
 
-Right now, I'm exploring game modding, specifically Minecraft datapacks.
+Right now, I'm exploring game modding, specifically through Minecraft datapacks.
