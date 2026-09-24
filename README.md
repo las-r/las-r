@@ -6,7 +6,7 @@
 - Creating systems in constrained environments
 
 #### Selected Works
-- [Aergia](https://github.com/las-r/aergia), a minimal, imperative programming language with a custom runtime environment.
+- [Calm](https://github.com/las-r/calm), a minimal, C-like compiled programming language written in Python with [llvmlite](https://github.com/numba/llvmlite).
 - [Xi](https://github.com/las-r/xi), a 6-bit CPU made fully in Minecraft redstone (with a custom instruction set!).
 - [Mercury](https://github.com/las-r/mercury), a fantasy console emulator loosely inspired by CHIP-8 and its derivatives.
 
