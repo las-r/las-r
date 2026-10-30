@@ -12,7 +12,5 @@
 
 I typically program in Python or JavaScript, but I have experience in other languages like Lua. I can also work on embedded systems such as microcontrollers.
 
-Right now, I'm working on [Sylo](https://github.com/las-r/sylo), another compiled programming language. 
-
 You can view the full chronological index of my languages and architectures [here](https://github.com/las-r/langs).\
 You can view my blog [here](https://las-r.dev/blog/).
