@@ -1,4 +1,4 @@
-[Hi](https://las-r.dev), I'm las_r! I’m a student developer who enjoys making stuff from the ground up. 
+[Hi, I'm las_r!](https://las-r.dev) I’m a student developer who enjoys making stuff from the ground up. 
 
 #### Technical Interests
 - Programming language design
