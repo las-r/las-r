@@ -6,8 +6,8 @@
 - Creating systems in constrained environments
 
 #### Selected Works
-- [Micro](https://github.com/las-r/micro), a minimal yet powerful scripting language with interpreters written in Python and Julia.
 - [Xi](https://github.com/las-r/xi), a 6-bit CPU made fully in Minecraft redstone (with a custom instruction set!).
+- [Micro](https://github.com/las-r/micro), a minimal yet powerful scripting language with interpreters written in Python and Julia.
 - [Mercury](https://github.com/las-r/mercury), a fantasy console emulator loosely inspired by CHIP-8 and its derivatives.
 
 I typically program in Python or Julia but I have experience in other languages such as JavaScript and Lua. I can also work on microcontrollers using C or MicroPython.
