@@ -12,7 +12,5 @@
 
 I typically program in Python or Julia but I have experience in other languages such as JavaScript and Lua. I can also work on microcontrollers using C or MicroPython.
 
-Right now, I'm working on [Candle](https://github.com/las-r/candle), a programming language meant to serve as a stepping stone between block-coding and higher-level languages such as Python.
-
 You can view the full chronological index of my languages and architectures [here](https://las-r.dev/langs/).  
 You can view my blog [here](https://las-r.dev/blog/).
