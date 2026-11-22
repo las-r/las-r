@@ -10,7 +10,7 @@
 - [Micro](https://github.com/las-r/micro), a minimal yet powerful scripting language made to be learned in a single sitting.
 - [Mercury](https://github.com/las-r/mercury), a fantasy console emulator loosely inspired by CHIP-8 and its derivatives.
 
-I typically program in Python or Julia but I have experience in other languages such as JavaScript and Lua. I can also work on microcontrollers using C or MicroPython.
+I primarily use Python and Julia, but I'm also familiar with JavaScript and Lua. I'm learning Haskell and have some experience programming microcontrollers in C and MicroPython.
 
 You can view the full chronological index of my languages and architectures [here](https://las-r.dev/langs/).  
 You can view my blog [here](https://las-r.dev/blog/).
