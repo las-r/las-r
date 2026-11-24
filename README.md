@@ -7,8 +7,8 @@
 
 #### Selected Works
 - [Xi](https://github.com/las-r/xi), a 6-bit CPU made fully in Minecraft redstone (with a custom instruction set!).
-- [Micro](https://github.com/las-r/micro), a small yet powerful scripting language made to be learned and extended.
 - [Aergia](https://github.com/las-r/aergia), a minimalist and lightweight programming language.
+- [Micro](https://github.com/las-r/micro), a small yet powerful scripting language made to be learned and extended.
 
 I primarily use Python and Julia, but I'm also familiar with JavaScript and Lua. I'm learning Haskell and have some experience programming microcontrollers in C and MicroPython.
 
